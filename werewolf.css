@@ -28,7 +28,6 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {display: block;}
 body {line-height: 1;}
-ol, ul {list-style: none;}
 blockquote, q {quotes: none;}
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -1772,6 +1771,3 @@ The 1140px Grid by Andy Taylor – http://cssgrid.net – http://www.twitter.com
 .padding_bottom_90 {padding-bottom:90px !important;}
 .padding_bottom_120 {padding-bottom:120px !important;}
 .padding_bottom_130 {padding-bottom:130px !important;}
-
-
-
